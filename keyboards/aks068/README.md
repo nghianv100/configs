@@ -100,5 +100,5 @@ ESC = ~
 
 0 = Mute
 
-- + = Volume down / up
+_ + = Volume down / up
 
