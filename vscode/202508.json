@@ -1,0 +1,11 @@
+{
+    "editor.fontFamily": "'Source Code Pro', 'Courier New', monospace",
+    "editor.fontWeight": "600",
+    "editor.fontSize": 12.5,
+    "editor.lineHeight": 1.6,
+    "terminal.integrated.fontFamily": "'Source Code Pro', 'Courier New', monospace",
+    "terminal.integrated.fontSize": 12.5,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.lineHeight": 1.1,
+    "workbench.colorTheme": "Tomorrow Night Blue"
+}
